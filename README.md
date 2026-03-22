@@ -3,7 +3,7 @@ Price Discrimination: Revenue Optimization through RFM & WTP Modeling
 This project implements a Price Discrimination Strategy aimed at maximizing retail revenue using RFM Analysis and Willingness to Pay (WTP) modeling.
 By segmenting customers based on their purchasing behavior, updated pricing tiers were simulated to achieve a significant revenue jump.
 
-<img width="1022" height="140" alt="Revenue change" src="https://github.com/user-attachments/assets/2c57b364-1bd5-4a58-b441-893b71ff8654" />
+<img width="1192" height="172" alt="Revenue Change-2" src="https://github.com/user-attachments/assets/86533b04-3c50-41b6-9d55-12f9b4ca8cae" />
 
 
 📊 Business Impact
