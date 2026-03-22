@@ -39,12 +39,13 @@ Framework:
 🧹 Key Data Engineering StepsFiltering: Focused on the United Kingdom to avoid outlier distortion and selected the top 10 recurring products for deep analysis.
 
 Cleaning: Removed nulls, duplicates, and non-positive quantity/price entries.
+
 Enrichment: Separated date fields and applied Min-Max Normalization to RFM scores.
 
 <img width="1777" height="181" alt="Fitered_Cleaned" src="https://github.com/user-attachments/assets/7a2ff139-d560-423f-a944-601f805ba643" />
 
 
-📈 Key InsightsSegment Power: 
+📈 Key Insights: Segment Power: 
 * Champions represent 48.6% of the customer base, providing the safest ground for price adjustments.
 * Potential Loyalists: While fewer in number, they tend to purchase higher-priced items compared to other segments.
 * Product Performance: Stock code 22423 emerged as the primary revenue driver post-optimization.
